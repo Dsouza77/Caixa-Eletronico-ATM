@@ -1,4 +1,4 @@
-🏧"Simulado de Caixa Eletrônico (ATM)"🏧
+🏧"Simulador de Caixa Eletrônico (ATM)"🏧
 
 ✅ Esse é o nome que dei pra mais um mini programa que fiz em Python. Minha intenção inicialmente
 foi fazer um programa que trabalhasse funções, manipulação de arquivos e estrutura de decisões.
